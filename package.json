@@ -53,7 +53,7 @@
     "vitest": "^2.1.3",
     "vue": "^3.5.12",
     "vue-tsc": "^2.1.6",
-    "wxt": "^0.19.11"
+    "wxt": "https://pkg.pr.new/wxt@1085"
   },
   "simple-git-hooks": {
     "pre-commit": "bun lint-staged"
