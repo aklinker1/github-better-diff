@@ -3,7 +3,6 @@ import Icons from "unplugin-icons/vite";
 
 export default defineConfig({
   srcDir: "src",
-  extensionApi: "chrome",
   experimental: {
     entrypointImporter: "vite-node",
   },
